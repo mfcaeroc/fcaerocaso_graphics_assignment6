@@ -2,7 +2,7 @@
 // Program: ray_trace.cpp
 // Purpose: Demonstrate ray tracing of spheres adding different lighting.
 // Author:  John Gauch ft. Fernanda Caero
-// Date:    Spring 2024
+// Date:    Spring May 2024
 //---------------------------------------
 #include <cmath>
 #include <cstdio>
